@@ -1,7 +1,7 @@
 # 💫About Me :
-👋 Hi , I am Mohammadmahdi Tavakkoli
-👦 I am 17 Y.O 
-💻 I am Frontend developer
+👋 Hi , I am Mohammadmahdi Tavakkoli <br>
+👦 I am 17 Y.O <br>
+💻 I am Frontend developer <br>
 👨‍💻 I am Coding for Fun and I love it ❤
 
 ## 🌐Socials
