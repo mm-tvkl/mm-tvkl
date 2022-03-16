@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi , I am Mohammadmahdi Tavakkoli <br>
-👦 I am 17 Y.O <br>
+👦 Born In 2005-06-30 <br>
 💻 I am Frontend developer <br>
 👨‍💻 I am Coding for Fun and I love it ❤
 
