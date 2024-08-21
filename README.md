@@ -1,6 +1,5 @@
 # 💫About Me :
 👋 Hi , I am Mohammadmahdi Tavakkoli <br>
-👦 Born In 2005-06-30 <br>
 💻 I am Frontend developer <br>
 👨‍💻 I am Coding for Fun and I love it ❤
 
